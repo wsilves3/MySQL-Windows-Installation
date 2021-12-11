@@ -1,2 +1,2 @@
 # MySQL-Windows-Installation
-Mysql Windows Installation for CIS210 class
+MySQL Windows Installation for CIS210 class
